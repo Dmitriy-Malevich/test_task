@@ -1,0 +1,5 @@
+[test_task]
+ansible_test  ansible_host=178.128.202.245 
+
+
+
